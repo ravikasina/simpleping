@@ -1,7 +1,7 @@
 # simpleping
 write a python program  to check whether the Network devices are able to ping or not 
 
-Download the files using:-
+Download these Git files using:-
 
 8c85901b3c97:~ rakasina$ cd Desktop/
 
